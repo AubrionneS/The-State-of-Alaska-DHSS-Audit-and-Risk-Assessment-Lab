@@ -16,12 +16,3 @@ Audit and Risk Assessment: <br/>
 <img src="https://i.imgur.com/j8Qbg2u.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
