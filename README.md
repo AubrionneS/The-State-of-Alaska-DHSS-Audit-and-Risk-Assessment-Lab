@@ -10,11 +10,10 @@ In this project, I completed a thorough cybersecurity audit and risk assessment.
 - <b>NIST CSF: NIST SP 800-53</b> 
 - <b>NIST RMF: NIST SP 800-30</b>
 
-<h2>Accessible Link to View the Full Project:</h2>
-
+[Select to View the Full Project](https://1drv.ms/x/s!AtUVmsXWeDsHiiQFesRjROh3x2V-?e=1T9xXf)
 <p align="center">
 Audit and Risk Assessment: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/j8Qbg2u.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <!--
